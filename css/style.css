@@ -24,7 +24,7 @@ body {
 }
 
 header {
-    background: #E5BF44;
+    background: #8e0833;
 }
 
 li {
@@ -55,7 +55,7 @@ li {
     position: fixed;
     top: 0;
     z-index: 99;
-    background: #B8A481;
+    background: #180466;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -110,7 +110,7 @@ li {
         top: 70px;
         width: 100%;
         flex-direction: column;
-        background: #B8A481;
+        background: #8e0833;
         text-align: center;
         transition: 0.4s ease-in;
     }
@@ -397,7 +397,7 @@ input[type=submit] {
 
 footer {
     text-align: center;
-    background: #B8A481;
+    background: #1b049c;
     padding: 20px 23px;
     color: #fff;
     width: 102%;
